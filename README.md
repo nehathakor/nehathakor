@@ -7,17 +7,8 @@
 
 #### About Me:
 
-I am driven by a fervor for creating innovative solutions and continuously enhancing my proficiency in the tech realm. With a focus on web development, I’m exploring various frameworks and languages to craft engaging, user-centric experiences. 
+With a focus on web development, I’m exploring various frameworks and languages to craft engaging, user-centric experiences. 
 Constantly seeking challenges to broaden my skill set, I'm enthusiastic about leveraging technology to solve real-world problems.
-
-#### Projects I'm Excited About:
-
-- 🌐 Developing useful website using React and Node.js.
-- 💡 Exploring the potential of AI integration in web applications for enhanced user experiences.
-
-#### Let's Collaborate:
-
-If you share a passion for crafting remarkable digital experiences and want to team up on a project or exchange ideas, I'm all ears! Feel free to connect via email or any of the platforms listed below.
 
 #### Tech Stack:
 
@@ -28,9 +19,8 @@ If you share a passion for crafting remarkable digital experiences and want to t
 #### Get in Touch:
 
 - 📧 Email: [neha.k.thakor@gmail.com](mailto:neha.k.thakor@gmail.com)
-- 💼 LinkedIn: 
-- 🌐 Portfolio: []
-- 🐦 Twitter: []
+- 💼 LinkedIn: [ ]
+- 🌐 Portfolio: [ ]
 
-Looking forward to connecting with fellow developers, enthusiasts, and potential collaborators! Let's build something awesome together. 🚀
+Let's build something awesome together. 🚀
 
