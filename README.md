@@ -19,7 +19,7 @@ Constantly seeking challenges to broaden my skill set, I'm enthusiastic about le
 #### Get in Touch:
 
 - 📧 Email: [neha.k.thakor@gmail.com](mailto:neha.k.thakor@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/neha-thakor-5b606b290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 💼 LinkedIn: [ https://www.linkedin.com/in/neha-thakor-5b606b290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]
 - 🌐 Portfolio: [ ]
 
 Let's build something awesome together. 🚀
