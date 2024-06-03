@@ -12,8 +12,9 @@ Constantly seeking challenges to broaden my skill set, I'm enthusiastic to solve
 #### Tech Stack:
 
 - Languages: HTML, CSS, JavaScript, Java
-- Frameworks/Libraries: React.js, Node.js
-- Tools: Git, VS Code
+- Frameworks/Libraries: Node.js,Express.js
+- Database: MySQL, MongoDB
+- Tools: Git, VS Code, Postman
 
 #### Get in Touch:
 
