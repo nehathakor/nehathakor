@@ -2,12 +2,11 @@
 
 - 🔭 I’m currently improving my skills in software development, aiming to excel in web development.
 - 🌱 I’m deeply engaged in learning and implementing my knowledge through diverse projects.
-- 📫 Reach out to me at [neha.k.thakor@gmail.com](mailto:neha.k.thakor@gmail.com).
+- 📫 Reach out to me at [neha.k.thakor@gmail.com](mailto:neha.k.thakor@gmail.com)
 
 #### About Me:
 
 With a focus on web development, I’m exploring various frameworks and languages to craft engaging, user-centric experiences. 
-Constantly seeking challenges to broaden my skill set, I'm enthusiastic to solve real-world problems.
 
 #### Tech Stack:
 
